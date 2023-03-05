@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "~6",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@popperjs/core": "^2.11.6",
+    "add": "^2.0.6",
+    "bootstrap": "^5.2.3",
+    "yarn": "^1.22.19"
+  }
+}
