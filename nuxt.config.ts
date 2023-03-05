@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   runtimeConfig: {
     public: {
-      apiBase: 'https://ingdanielsanchezve.github.io/data',
+      apiBase: 'http://localhost:3004',
     }
   },
   app: {
